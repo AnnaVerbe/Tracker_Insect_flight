@@ -2,7 +2,7 @@
 
 ### Contents
 - Steps, links, and explanations on how to use *Tracker Video Analysis and Modeling Tool* for tracking Insect head en body angle during free fall. 
-- Tracker file exemple and file depending of the exporting methods (Tab, comma ...) 
+- Tracker file (Exemple.trk) and avi file (Exemple.avi) exemple and exported file depending of the exporting methods (Tab, comma ... 'Test_Tab.txt') 
 
 ### Install tracker 
 Link to install but also to have a lot of information on how to use Tracker: https://physlets.org/tracker/
